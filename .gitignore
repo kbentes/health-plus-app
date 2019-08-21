@@ -15,6 +15,7 @@
 # generated files
 bin/
 gen/
+.idea/
 
 # Ignore gradle files
 .gradle/
