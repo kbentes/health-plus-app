@@ -5,7 +5,7 @@
               android:layout_height="match_parent">
     <TextView
             android:text="Dr. Almeida"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content" tools:layout_editor_absoluteY="98dp"
+            android:layout_width="113dp"
+            android:layout_height="28dp" tools:layout_editor_absoluteY="98dp"
             tools:layout_editor_absoluteX="74dp" android:id="@+id/textView"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
