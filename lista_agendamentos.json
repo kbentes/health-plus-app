@@ -1,0 +1,13 @@
+{
+    "agendamentos": [
+        "clinica"
+        "profissional"
+        "crm_profissional"
+        "especialidade"
+        "tipo_consulta"
+        "localizacao"
+        "dia_consulta"
+        "hora_consulta"
+        "contato_profissional"
+    ]
+}
